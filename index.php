@@ -55,6 +55,9 @@
             </div>
         </section>
     </div>
+
+
+    <script src="js/pass-show-hide.js" defer></script>
 </body>
 
 </html>
